@@ -2,6 +2,12 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{023A855F-1BB4-464C-8427-AF7CA6E13BCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_2_Task_2", "Lesson_2_Task_2\Lesson_2_Task_2.csproj", "{FF91380F-4724-4132-93AC-652DA7483C09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_2_Task_3", "Lesson_2_Task_3\Lesson_2_Task_3.csproj", "{F8C4B795-B67A-4CC9-ADB7-41217C520C50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_2_Task_4", "Lesson_2_Task_4\Lesson_2_Task_4.csproj", "{3D06699B-2C15-4B58-9E05-54E28F80D17F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +18,17 @@ Global
 		{023A855F-1BB4-464C-8427-AF7CA6E13BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{023A855F-1BB4-464C-8427-AF7CA6E13BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{023A855F-1BB4-464C-8427-AF7CA6E13BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF91380F-4724-4132-93AC-652DA7483C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF91380F-4724-4132-93AC-652DA7483C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF91380F-4724-4132-93AC-652DA7483C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF91380F-4724-4132-93AC-652DA7483C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C4B795-B67A-4CC9-ADB7-41217C520C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C4B795-B67A-4CC9-ADB7-41217C520C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C4B795-B67A-4CC9-ADB7-41217C520C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C4B795-B67A-4CC9-ADB7-41217C520C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D06699B-2C15-4B58-9E05-54E28F80D17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D06699B-2C15-4B58-9E05-54E28F80D17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D06699B-2C15-4B58-9E05-54E28F80D17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D06699B-2C15-4B58-9E05-54E28F80D17F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,6 @@
+D:\Учеба\Geekbrains\Разработчик С#\Введение в С#\ДЗ\Lesson_1\ConsoleApplication2\Lesson_2_Task_4\bin\Debug\Lesson_2_Task_4.exe
+D:\Учеба\Geekbrains\Разработчик С#\Введение в С#\ДЗ\Lesson_1\ConsoleApplication2\Lesson_2_Task_4\bin\Debug\Lesson_2_Task_4.pdb
+D:\Учеба\Geekbrains\Разработчик С#\Введение в С#\ДЗ\Lesson_1\ConsoleApplication2\Lesson_2_Task_4\obj\Debug\Lesson_2_Task_4.csprojAssemblyReference.cache
+D:\Учеба\Geekbrains\Разработчик С#\Введение в С#\ДЗ\Lesson_1\ConsoleApplication2\Lesson_2_Task_4\obj\Debug\Lesson_2_Task_4.csproj.CoreCompileInputs.cache
+D:\Учеба\Geekbrains\Разработчик С#\Введение в С#\ДЗ\Lesson_1\ConsoleApplication2\Lesson_2_Task_4\obj\Debug\Lesson_2_Task_4.exe
+D:\Учеба\Geekbrains\Разработчик С#\Введение в С#\ДЗ\Lesson_1\ConsoleApplication2\Lesson_2_Task_4\obj\Debug\Lesson_2_Task_4.pdb
