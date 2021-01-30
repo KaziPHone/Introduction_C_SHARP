@@ -6,8 +6,8 @@ namespace ConsoleApplication2
     public class Task_4
     {
         private int n = 0;
-        private int j = 2;
-        private int i = 0;
+        private int num1 = 0;
+        private int num2 = 0;
         
         public void Start()
         {
@@ -16,24 +16,28 @@ namespace ConsoleApplication2
             Console.Write("Введите число: ");
             n = Int32.Parse(Console.ReadLine());
             Console.WriteLine("");
-            Fibonacci(i);
+            Fib(0);
         }
 
-        private void Fibonacci(int t)
+        
+        
+        private void Fib(int i)
         {
-            if (t <= 1)
+            if (i == 0)
             {
-                Console.Write($"{t} ");
-            }
-            else
-            {
-                j = (i - 1) + (i - 2);
-                Console.Write($"{j} ");
                 i++;
-                if (i < n)
-                {
-                    Fibonacci(i);
-                }
+                num2 += i;
+                Console.Write($"{num1} {num2} ");
+                Fib(i);
+            }
+            else if (i < n)
+            {
+                i++;
+                Console.Write($"{(num1) + (num2)} ");
+                var b = num1;
+                num1 = num2;
+                num2 = b + num1;
+                Fib(i);
             }
         }
     }
