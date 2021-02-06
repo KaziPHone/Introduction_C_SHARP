@@ -7,11 +7,8 @@ namespace ConsoleApplication2
     {
         public static void Main(string[] args)
         {
-            Console.Write("Привет, как тебя зовут? ");
-            var name = Console.ReadLine();
-            Console.WriteLine($"Привет, {name}, сегодня {DateTime.Now.ToShortDateString()}!");
-
-            Console.ReadKey();
+            Processes processes = new Processes();
+            processes.TaskManagerRun();
         }
     }
 }
